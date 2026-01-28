@@ -1,2 +1,3 @@
-# admin-and-front
-check README files to be directed to the repositories
+Admin: https://github.com/Eturnava/Coffee-shop-Admin.git
+
+Front: https://github.com/Eturnava/Coffee-shop-Front.git
